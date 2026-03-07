@@ -8,4 +8,6 @@ require (
 	github.com/HugoBlox/kit/modules/slides v0.0.0-20260219151239-9965378d1853
 )
 
-require github.com/HugoBlox/kit/modules/analytics v0.3.1 // indirect
+require (
+	github.com/HugoBlox/kit/modules/analytics v0.3.1 // indirect
+)
